@@ -1,1 +1,1 @@
-FROM  gcr.io/kubernetes-e2e-test-images/echoserver:2.1
+FROM  k8s.gcr.io/ingress-nginx/controller:v0.41.2
